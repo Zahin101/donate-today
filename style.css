@@ -20,6 +20,12 @@ section{
 h1{
     font-size: 50px;
 }
+h2{
+    font-size: 30px;
+    text-align: left;
+    padding-top: 75px;
+    padding-left: 0%;
+}
 p{
     font-size: 18px;
 }
@@ -82,4 +88,38 @@ p{
     position: absolute;
     left: 50%;
     transform: translate(-50%, -50%);
+}
+.flexible-container{
+    display:flex;
+}
+.donate-plan{
+    width: 60%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    border-radius: 10px;
+    /* box-shadow: 10px 10px 40px gray; */
+    
+}
+#food{
+    background-image: url(icons/food.png);
+    background-repeat: no-repeat;
+    background-position: 10px 30px;
+    background-color: pink;
+}
+.donate-plan-text{
+    text-align: left;
+}
+#shelter{
+    background-image: url(icons/shelter.png);
+    background-repeat: no-repeat;
+    background-position: 10px 30px;
+    background-color: rgb(141, 239, 246);
+}
+
+#education{
+    background-image: url(icons/Frame-1.png);
+    background-repeat: no-repeat;
+    background-position: 10px 30px;
+    background-color: peachpuff;
 }
