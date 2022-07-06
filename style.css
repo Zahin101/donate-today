@@ -136,3 +136,21 @@ footer{
     color: white;
     background-color: rgb(43, 41, 41);
 }
+.update{
+    background-color: bisque;
+    padding: 75px;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-radius: 10px;
+}
+.submit{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(255, 77, 77), tomato);
+    padding: 14px 44px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
+#email{
+    padding: 10px 40px;  
+}
