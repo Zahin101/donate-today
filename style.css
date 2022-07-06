@@ -26,6 +26,14 @@ h2{
     padding-top: 75px;
     padding-left: 0%;
 }
+h5{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    text-align: center;
+    font-size: 25px;
+    padding-top: 30px;
+    color: #f44336;
+}
 p{
     font-size: 18px;
 }
@@ -122,4 +130,9 @@ p{
     background-repeat: no-repeat;
     background-position: 10px 30px;
     background-color: peachpuff;
+}
+footer{
+    text-align: center;
+    color: white;
+    background-color: rgb(43, 41, 41);
 }
