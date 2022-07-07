@@ -146,11 +146,28 @@ footer{
 .submit{
     text-decoration: none;
     background-image: linear-gradient(rgb(255, 77, 77), tomato);
-    padding: 14px 44px;
+    /* margin-left: -6px; */
+    padding: 13px 43px;
     color: white;
     font-weight: 700;
     border-radius: 5px;
 }
 #email{
     padding: 10px 40px;  
+}
+.news{
+    width: 60%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 5px;
+    border-radius: 10px;
+}
+#news1{
+    background-color: rgb(161, 245, 217);
+}
+#news2{
+    background-color: rgb(236, 236, 109);
+}
+#news3{
+    background-color: rgb(135, 247, 135);
 }
